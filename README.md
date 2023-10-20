@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Ankit Singh Chauhan</h1>
 <h3 align="center">A passionate to do coding and frontend backend developer.</h3>
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sb2520&label=Profile%20views&color=0e75b6&style=flat" alt="sb2520" /> </p>
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sAnkit2563&label=Profile%20views&color=0e75b6&style=flat" alt="Ankit2563" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sb2520" alt="sb2520" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ankit2563" alt="Ankit2563" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="coding" width="400" src ="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif"
