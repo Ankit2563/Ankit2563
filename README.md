@@ -13,7 +13,8 @@
 
 - 🌱 I’m currently learning **Node.js , React and solving problems**
 
-- 📫 How to reach me **ankitcloud2563@gmail.com**
+- 📫 How to reach me **singhkit2563@gmail.com**
+  
 
 
 - ⚡ Fun fact **Sometimes i become very funny with my friends**
